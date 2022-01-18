@@ -1,0 +1,24 @@
+body {
+    background-color: #ddf0fd;
+}
+
+.tour-container {
+    margin-left: 600px;
+    width: 600px;
+    height: auto;
+    margin-top: 100px;
+    border: 2px solid rgb(119, 203, 231);
+    border-radius: 10px;
+    background-color: white;
+}
+
+.tour-container img {
+    width: 600px;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.information {
+    padding: 20px;
+}
+
